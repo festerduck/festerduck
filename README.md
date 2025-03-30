@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Heyyy!&animation=fadeIn&type=transparent&color=gradient" alt="Heyyyy!" />
+  <img src="https://capsule-render.vercel.app/api?text=Heyyy!&animation=fadeIn&type=blur&color=gradient" alt="Heyyyy!" />
 </p>
 
 <!-- Introduction -->
