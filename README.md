@@ -26,7 +26,7 @@
 <!-- Social Links -->
 <h2 align="center">Connect with Me</h2>
 <p align="center">
- ==
+ 
   <a href="https://linkedin.com/in/abdulrehman.tsx" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
