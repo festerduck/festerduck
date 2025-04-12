@@ -10,6 +10,7 @@
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/cplusplus-61DAFB?style=for-the-badge&logo=cplusplus&logoColor=black" alt="C++" />
+   <img src="https://img.shields.io/badge/Typescript-61DAFB?style=for-the-badge&logo=cplusplus&logoColor=black" alt="Typescript" />
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
