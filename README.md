@@ -4,7 +4,7 @@
 </p>
 
 <!-- Introduction -->
-<h1 align="center">I'm Abdul Reman</h1
+<h1 align="center">I'm Abdul Rehman</h1
 
 <!-- Tools & Technologies -->
 <h2 align="center">Languages & Tools</h2>
