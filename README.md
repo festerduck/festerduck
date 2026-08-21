@@ -23,10 +23,7 @@
 I build enterprise healthcare software for US clinics — and the tooling that generates it.
 
 - 🏗️ **Software Engineer @ Cognitive Healthcare International Technologies.** I own appointments & availability end to end on a clinical platform with **167 data models** — Angular scheduling UI → NestJS API → database schema.
-- ⚙️ **I write code that writes code.** Led an internal generation engine: **29 generators**, one database schema in, a working NestJS + Angular + Next.js stack out. **82 production apps** generated, ~40% faster feature delivery.
-- 🤖 Increasingly working on **LLM agent systems in production** — tool calling, agent-to-tracker bridges, idempotent sync.
-- 📝 **Spec first.** PRDs, module contracts and written architecture decisions before a line of implementation.
-- 🎓 BS Computer & Information Sciences, **PIEAS** (GPA 3.68) — *Top Project of the Batch* at the departmental Open House.
+- ⚙️ **I write code that writes code.
 
 <!-- ══════════════════════════ STACK ══════════════════════════ -->
 
