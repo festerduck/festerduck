@@ -20,10 +20,7 @@
 
 ## Hey 👋
 
-I build enterprise healthcare software for US clinics — and the tooling that generates it.
-
-- 🏗️ **Software Engineer @ Cognitive Healthcare International Technologies.** I own appointments & availability end to end on a clinical platform with **167 data models** — Angular scheduling UI → NestJS API → database schema.
-- ⚙️ **I write code that writes code.
+- **I write code that writes code.**
 
 <!-- ══════════════════════════ STACK ══════════════════════════ -->
 
@@ -73,64 +70,26 @@ I build enterprise healthcare software for US clinics — and the tooling that g
 
 <!-- ══════════════════════════ PROJECTS ══════════════════════════ -->
 
-## Featured work
+## Some Recent Work
 
-### 🧬 CodeCraft — Schema-Driven Application Generator
-> *Top Project of the Batch, PIEAS Open House*
+### CodeCraft - Schema-Driven Application Generator
 
 Turns a written product requirement into a **running full-stack application** — schema, backend modules, frontend screens — not a scaffold someone still has to finish.
-
-- 29 generators: Prisma schema, NestJS modules, Angular forms/tables/cards, Next.js dashboards, ERDs, seed data, navigation
-- A relational resolver that untangles junction tables and 1:1 / 1:N / M:N relations into coherent modules — the part that makes generated code *usable* rather than boilerplate
-- Failures moved from runtime to generation time: ambiguous bindings are rejected with a readable error instead of compiling and misbehaving in the browser
-- **82 applications generated and validated** across ecommerce, healthcare, logistics and education
 
 `TypeScript` `NestJS` `Angular` `Next.js` `Prisma` `PostgreSQL` `ts-morph` `Gemini`
 
 ---
 
-### 🏋️ RackUp — Offline-First Workout Tracker
+### 🏋️ RackUp - Offline-First Workout Tracker
 > *Sole author*
 
 An Android training app built for the condition its users are actually in: a basement gym with no signal, no account, nothing to log into.
 
-- Network removed from the critical path entirely — **15 screens over 9 on-device SQLite tables**, so no screen can fail on connectivity
-- **269 automated tests** behind a single pre-commit gate (typecheck, lint, format, conventions, tests). Nothing lands that fails it
 - Delivered in numbered phases against a written spec, every ambiguity resolution recorded as a decision
 
 `React Native` `Expo` `TypeScript` `Drizzle ORM` `SQLite` `Zustand` `Jest`
 
 ---
 
-### 🕸️ Static Site Pipeline
-> *Sole author*
 
-Migrates a legacy marketing site off its CMS without losing links or inheriting a server to maintain.
 
-- Three inspectable stages — crawl the live site, restructure as JSON, regenerate as static HTML — so content stops being trapped in markup
-- The link checker **is** the acceptance test: 57 pages regenerated with all 510 links walked on every build; a broken route fails the build rather than reaching a visitor
-
-`Python` `React` `TypeScript` `Vitest`
-
-<!-- ══════════════════════════ STATS ══════════════════════════ -->
-
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=festerduck&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=festerduck&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=festerduck&hide_border=true&theme=tokyonight" alt="Streak" />
-</p>
-
-<!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-
-<p align="center">
-  <i>Open to backend, full-stack and developer-tooling roles — <a href="mailto:abdulrehman.tsx@gmail.com">say hi</a>.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24&section=footer" alt="" />
-</p>
